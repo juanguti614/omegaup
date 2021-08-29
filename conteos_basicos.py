@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# https://omegaup.com/arena/problem/Conteos-basicos/#problems
 
 def _main() -> None:
   a,b = input().split()
